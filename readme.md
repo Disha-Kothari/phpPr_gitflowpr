@@ -2,5 +2,5 @@
 lorem expsom feature/1
 ## test1
 gitflow testing1
-git flow testing1 updated as a hotfix
+git flow testing1 updated as a hotfix in 5-readme-test branch
 
